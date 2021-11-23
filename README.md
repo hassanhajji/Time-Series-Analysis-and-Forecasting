@@ -1,2 +1,2 @@
-# FOREX-Analysis
-Analysis of FOREX market
+# Time-Series-Analysis-and-Forecasting
+Analysis of the supermarket data
